@@ -5,7 +5,7 @@
 	<body>
         <p>
           <?php
-            echo "Hola mundo!";// imprimimos en pantalla el texto "Hola mundo"
+            echo "Hola mundo!";
           ?>
         </p>
 	</body>

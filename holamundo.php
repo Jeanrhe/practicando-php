@@ -6,6 +6,9 @@
         <p>
           <?php
             echo "Hola mundo!";//prueba
+
+
+            echo " Nuevo colaborador";
           ?>
         </p>
 	</body>
